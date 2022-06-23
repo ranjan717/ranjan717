@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ranjan
 - 👀 I’m interested in Mathematics, Data Science, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Advance Statistics using Python
+- 🌱 I’m in my journey to become a data scientist and currently learning Time series Forecasting
 - 💞️ I’m looking to collaborate on any Python Project
 - 📫 How to reach me by email : jyotiranjan.1895@gmail.com
 
